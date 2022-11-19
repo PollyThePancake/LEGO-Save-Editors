@@ -1,0 +1,5 @@
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Release\netcoreapp3.1\publish\SaveEditor.exe
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Release\netcoreapp3.1\publish\SaveEditor.dll
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Release\netcoreapp3.1\publish\SaveEditor.deps.json
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Release\netcoreapp3.1\publish\SaveEditor.runtimeconfig.json
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Release\netcoreapp3.1\publish\SaveEditor.pdb

@@ -1,0 +1,16 @@
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Debug\netcoreapp3.1\SaveEditor.exe
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Debug\netcoreapp3.1\SaveEditor.deps.json
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Debug\netcoreapp3.1\SaveEditor.runtimeconfig.json
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Debug\netcoreapp3.1\SaveEditor.runtimeconfig.dev.json
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Debug\netcoreapp3.1\SaveEditor.dll
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Debug\netcoreapp3.1\SaveEditor.pdb
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.csproj.AssemblyReference.cache
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.Editor.resources
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.csproj.GenerateResource.cache
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.AssemblyInfoInputs.cache
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.AssemblyInfo.cs
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.csproj.CoreCompileInputs.cache
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.dll
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.pdb
+E:\Games\LSW\LSW-SE\SaveEditor\obj\Debug\netcoreapp3.1\SaveEditor.genruntimeconfig.cache

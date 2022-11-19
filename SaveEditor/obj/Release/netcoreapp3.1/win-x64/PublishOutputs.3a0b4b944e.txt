@@ -1,0 +1,2 @@
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Release\netcoreapp3.1\publish\win-x64\SaveEditor.pdb
+E:\Games\LSW\LSW-SE\SaveEditor\bin\Release\netcoreapp3.1\publish\win-x64\SaveEditor.exe
